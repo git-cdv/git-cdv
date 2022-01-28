@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitro.</h1>
-<h3 align="center">An Android developer from Ukraine :blue_square: :yellow_square:</h3>
+<h3 align="center">An Android developer from Ukraine</h3>
 
 - :date: Experienced in Android since 2021
 -	:fairy_man: Making magic in Java and Kotlin
