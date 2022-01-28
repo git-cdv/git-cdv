@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dmitro.</h1>
+<h3 align="center">An Android developer from Ukraine :blue_square: :yellow_square:</h3>
 
-<!--
-**git-cdv/git-cdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :date: Experienced in Android since 2021
+-	:fairy_man: Making magic in Java and Kotlin
 
-Here are some ideas to get you started:
+### My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you can find some of my projects
+
+✔️ [IQtimer](https://github.com/git-cdv/iqtimer_kotlin) - Productivity timer with Challenge and Statistics.<br/>
+[KOTLIN, MVVM, HILT, ROOM, COROUTINES] <br/>
+[Google Play](https://play.google.com/store/apps/details?id=com.chkan.iqtimer)
+
+✔️ [E-COMMERCE APP for a store](https://play.google.com/store/apps/details?id=com.chkan.shopapp) - E-Commerce App for the online store of women's bags.<br/>
+[KOTLIN, MVVM, REST, ROOM, COROUTINES] <br/>
+
+✔️ [WAREHOUSE ACCOUNTING APP for a store](https://github.com/git-cdv/warehouse_store/tree/master) - Warehouse and sales accounting application for an online
+store.<br/>
+[KOTLIN, MVVM, REST, ROOM, COROUTINES] <br/>
