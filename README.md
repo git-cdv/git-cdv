@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitro.</h1>
 <h3 align="center">An Android developer from Ukraine</h3>
 
-- :date: Experienced in Android since 2021
+- :date: Experienced in Android since 2020
 -	:fairy_man: Making magic in Java and Kotlin
 
 ### My projects
