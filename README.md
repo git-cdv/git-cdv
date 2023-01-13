@@ -8,7 +8,7 @@
 
 Here you can find some of my projects
 
-✔️ [IQtimer](https://github.com/git-cdv/iqtimer_kotlin) - Productivity timer with Challenge and Statistics.<br/>
+✔️ [IQtimer](https://play.google.com/store/apps/details?id=com.chkan.iqtimer) - Productivity timer with Challenge and Statistics.<br/>
 [KOTLIN, MVVM, HILT, ROOM, COROUTINES] <br/>
 [Google Play](https://play.google.com/store/apps/details?id=com.chkan.iqtimer)
 
