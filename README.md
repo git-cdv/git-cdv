@@ -14,7 +14,3 @@ Here you can find some of my projects
 
 ✔️ [E-COMMERCE APP for a store](https://play.google.com/store/apps/details?id=com.chkan.shopapp) - E-Commerce App for the online store of women's bags.<br/>
 [KOTLIN, MVVM, REST, ROOM, COROUTINES] <br/>
-
-✔️ [WAREHOUSE ACCOUNTING APP for a store](https://github.com/git-cdv/warehouse_store/tree/master) - Warehouse and sales accounting application for an online
-store.<br/>
-[KOTLIN, MVVM, REST, ROOM, COROUTINES] <br/>
